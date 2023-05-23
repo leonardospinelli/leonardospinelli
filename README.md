@@ -1,3 +1,8 @@
-![midnight-purple](https://github-readme-stats.vercel.app/api?username=leonardospinelli&{theme=merko&show}_icons=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/leonardospinelli?cardType=github&theme=prussian&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white%22%3E](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white%22%3E](https://www.facebook.com/USERNAME)
+<div> 
+  <a href="https://api.whatsapp.com/send?phone=5535999796324&text=Ol%C3%A1!%20Peguei%20seu%20Whatsapp%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre...%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ <a href="https://discordapp.com/users/449708104884551691" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:leonardo.padua.alexandre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-ribeiro-carvalho-5ba337278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
