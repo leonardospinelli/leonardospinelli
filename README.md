@@ -1,5 +1,5 @@
 ##
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/leonardospinelli?cardType=github&theme=prussian&preferLogin=false)](https://git.io/awesome-stats-card) <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=prussian&hide_border=false&username=leonardospinelli" height="150" alt="languages graph"  />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/leonardospinelli?cardType=github&theme=prussian&preferLogin=false)](https://git.io/awesome-stats-card) <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=prussian&hide_border=false&username=leonardospinelli" height="150" alt="languages graph"  />
  
 
 
