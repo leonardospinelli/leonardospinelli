@@ -2,10 +2,12 @@
 
 ##
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=pt-br&hide_border=false&username=leonardospinelli" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&username=leonardospinelli" height="150" alt="languages graph"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardospinelli&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardospinelli&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" />
 </div>
+
+<br>
 
 ##
  
