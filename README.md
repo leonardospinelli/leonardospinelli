@@ -1,4 +1,4 @@
-color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!,+My+name+is+Leoanrdo+Spinelli;I'm+19+Years+Old;I'm+From+Lavras,+Brazil;I'm+coursing+Computer+Science+in+Federal+University+of+Lavras;Be+welcome!+:%29)](https://git.io/typing-svg)
+color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Meu+nome+é+Kauã+Carvalho;Tenho+19+anos;Sou+de+Lavras,+MG;Sou+estudante+de+programação+e+tecnologia;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 ##
 
