@@ -5,8 +5,8 @@
 ## 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardospinelli&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=FFFFFF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardospinelli&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardospinelli&show_icons=true&count_private=true&hide_border=true&title_color=1971c2&icon_color=1971c2&text_color=FFFFFF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardospinelli&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=1971c2" />
 </div>
 
 <br>
