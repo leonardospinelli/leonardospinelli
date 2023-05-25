@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Leonardo Spinelli and I'm a Junior Developer</h3>
+color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!,+My+name+is+Leoanrdo+Spinelli;I'm+19+Years+Old;I'm+From+Lavras,+MG;I'm+coursing+Computer+Science+in+Federal+University+of+Lavras;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
