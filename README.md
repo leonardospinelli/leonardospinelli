@@ -68,16 +68,15 @@
   
   </div>
   
-  </ul>
-  
+        </ul>
 </details>
 
 <a href=""></a>
 
 ##
  
+
 <div>
-  
   <h4 align="right"> Visitantes </h4>
   <img align="right" src="https://profile-counter.glitch.me/leonardospinelli/count.svg" />
   <img align="right" alt="" width="80" height="80" src="./view/github.png" /> 
