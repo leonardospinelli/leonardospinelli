@@ -68,10 +68,7 @@
   
   </div>
   
-        </ul>
-</details>
 
-<a href=""></a>
 
 ##
  
