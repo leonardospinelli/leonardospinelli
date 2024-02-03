@@ -49,31 +49,12 @@
   </div>
   
   
- 
-                                                               
-
-  ##
-  
-  
-  
-<div> 
-  
-
- 
-  
-  
-  ###
+ ###
 
 <br clear="both">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/leonardospinelli/leonardospinelli/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/viniciustneiva/viniciustneiva/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/viniciustneiva/viniciustneiva/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/viniciustneiva/viniciustneiva/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ###
- 
- 
-  
-  </div>
-  
-  ##
 
 
 
