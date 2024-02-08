@@ -1,6 +1,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+My+name+is+Leonardo+Spinelli;I'm+20+years+old;I'm+from+Lavras,+Brazil;I'm+coursing+Software+Engineering;+in+Federal+University+of+Lavras;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 
@@ -16,6 +17,7 @@
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
  
 <div> 
