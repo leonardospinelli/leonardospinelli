@@ -45,8 +45,11 @@
 
 <br clear="both">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/viniciustneiva/viniciustneiva/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/viniciustneiva/viniciustneiva/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-###
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  
+</div>
 
 
 
