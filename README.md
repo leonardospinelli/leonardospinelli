@@ -1,9 +1,9 @@
-##
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+My+name+is+Leonardo+Spinelli;I'm+20+years+old;I'm+from+Lavras,+Brazil;I'm+coursing+Software+Engineering;+in+Federal+University+of+Lavras;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-## 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <div align="center">  
@@ -13,7 +13,7 @@
 
 <br>
 
-##
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
  
 <div> 
@@ -29,7 +29,7 @@
   
   </a>
   
-  ##
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
   <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" width="42" alt="css3 logo"  />
