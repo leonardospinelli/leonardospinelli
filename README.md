@@ -3,6 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+My+name+is+Leonardo+Spinelli;I'm+20+years+old;I'm+from+Lavras,+Brazil;I'm+coursing+Software+Engineering;+in+Federal+University+of+Lavras;Be+welcome!+:%29)](https://git.io/typing-svg)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrelefon&show_icons=true&theme=radical&locale=en" alt="andrelefon" /></p>
+<div> 
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
